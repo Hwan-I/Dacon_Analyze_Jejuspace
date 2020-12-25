@@ -22,4 +22,6 @@
 * conda install plotly == 4.14.1
 * conda install descartes == 1.1.0
 
-
+### 외부데이터
+* 행정구역_읍면동(법정동) (제주도)
+(http://data.nsdi.go.kr/dataset/15145)
