@@ -7,6 +7,8 @@
 * pandas : 1.0.3
 * fiona : 1.8.13.post1
 * geopandas : 0.8.1
+* plotly : 4.14.1
+* descartes : 1.1.0
 * 기타 (further information)
   * 위의 패키지 설치시 그 외 다른 패키지들은 자동으로 설치됨 (if you install these packages, you don't need to setup other packages like shapely.geometry)
   * python version : 3.7.7 
